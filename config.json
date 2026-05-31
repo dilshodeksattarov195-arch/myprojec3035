@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasedarse",
+        "uuid": 4449310,
+        "checksum": "g4ufp"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
